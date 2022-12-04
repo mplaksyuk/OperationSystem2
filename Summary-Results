@@ -1,0 +1,19 @@
+Scheduling Type: Batch (Nonpreemptive)
+Scheduling Name: Multiple Queues
+Simulation Run Time: 17430
+Mean: 1100
+Standard Deviation: 510
+Queues count: 4
+Process #	CPU Time	IO Blocking	CPU Completed	CPU Blocked
+ 0       1514(ms)        100(ms)       1514(ms)       15 times
+ 1       1514(ms)        500(ms)       1514(ms)        3 times
+ 2       1514(ms)         30(ms)       1514(ms)       50 times
+ 3       1514(ms)        120(ms)       1514(ms)       12 times
+ 4       1514(ms)        250(ms)       1514(ms)        6 times
+ 5       1514(ms)         90(ms)       1514(ms)       16 times
+ 6       1514(ms)        150(ms)       1514(ms)       10 times
+ 7       1514(ms)         50(ms)       1514(ms)       30 times
+ 8       1514(ms)         34(ms)       1514(ms)       44 times
+ 9       1514(ms)        300(ms)       1514(ms)        5 times
+ 10       1145(ms)        200(ms)       1145(ms)        5 times
+ 11       1145(ms)         50(ms)       1145(ms)       22 times
